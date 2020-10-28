@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1100.5 2000.5">
+  <defs>
+    <style>
+      .cls-1,
+      .cls-2 {
+        fill: #6781a8;
+      }
+      .cls-1 {
+        opacity: 0.33;
+      }
+      .cls-2 {
+        opacity: 0.43;
+      }
+      .cls-3 {
+        fill: #f40b32;
+      }
+      .cls-4 {
+        font-size: 64px;
+      }
+      .cls-4,
+      .cls-6,
+      .cls-7,
+      .cls-9 {
+        fill: #ef0606;
+      }
+      .cls-10,
+      .cls-12,
+      .cls-13,
+      .cls-14,
+      .cls-15,
+      .cls-16,
+      .cls-4,
+      .cls-5 {
+        font-family: ComicSansMS-Bold, Comic Sans MS;
+        font-weight: 700;
+      }
+      .cls-5,
+      .cls-8 {
+        font-size: 63.77px;
+      }
+      .cls-6 {
+        font-size: 112.23px;
+      }
+      .cls-7 {
+        font-size: 116.05px;
+      }
+      .cls-11,
+      .cls-8 {
+        fill: #000;
+      }
+      .cls-9 {
+        font-size: 108.4px;
+      }
+      .cls-10 {
+        font-size: 36px;
+        fill: #0587a5;
+      }
+      .cls-12,
+      .cls-13,
+      .cls-14,
+      .cls-15,
+      .cls-16 {
+        font-size: 50px;
+      }
+      .cls-12 {
+        fill: #f5f6f7;
+      }
+      .cls-13 {
+        fill: #f7f8f9;
+      }
+      .cls-14 {
+        fill: #fcfcfc;
+      }
+      .cls-15 {
+        fill: #f9f9f9;
+      }
+      .cls-16 {
+        fill: #fdfeff;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2"><path class="cls-1" d="M0,81c176.35,33.13,342.4,71.12,467,144l143,85c125,94.33,193.16,153.2,219,32,24-167,169.56-64.63,271,152l.5-494.5S-.5-.5,0,0V92" transform="translate(0 0.5)"/><path class="cls-2" d="M0,1537c32.8,132,78.76,323.12,336,347,40.95,1.92,80.09,6.15,104,30,22.44,15.91,35.74,44.17,39,86H0Z" transform="translate(0 0.5)"/></g>
+  <g id="Layer_1" data-name="Layer 1"><circle class="cls-3" cx="666.5" cy="712" r="42.5"/><circle class="cls-3" cx="68.5" cy="669" r="42.5"/><circle class="cls-3" cx="648.5" cy="1177" r="42.5"/><circle class="cls-3" cx="424.5" cy="1383" r="42.5"/><circle class="cls-3" cx="1045.5" cy="1613" r="42.5"/><image width="1546" height="1529" transform="translate(652 418.32) scale(0.23)" xlink:href="images/wellness%20self%20check.png"/><image width="2546" height="2546" transform="translate(638 911.5) scale(0.13)" xlink:href="images/wiping.png"/><image width="2654" height="2653" transform="translate(730 52.5) scale(0.11)" xlink:href="images/corona.png"/><image width="1333" height="1317" transform="translate(677 1442.5) scale(0.26)" xlink:href="images/6%20feet.png"/>
+    <text class="cls-4" transform="translate(25.95 1755.17)">YOUR SAFETY IS<tspan x="0" y="76.8">OTHERS SAFETY</tspan>
+    </text>
+    <text class="cls-5" transform="translate(43.12 124.2)">THE FIVE
+      <tspan class="cls-6" x="344.86" y="0">W</tspan>
+      <tspan x="461.53" y="0">’S FOR
+      </tspan>
+      <tspan class="cls-7">
+        <tspan x="0" y="139.27">W</tspan>
+        <tspan class="cls-8" x="120.65" y="139.27">ORKPLACE
+        </tspan>
+      </tspan>
+      <tspan class="cls-9">
+        <tspan x="0" y="269.35">W</tspan>
+        <tspan class="cls-8" x="112.69" y="269.35">ELLNESS</tspan>
+      </tspan>
+    </text><image width="2666" height="2529" transform="translate(74 1097.5) scale(0.14)" xlink:href="images/mask.png"/><image width="2642" height="2611" transform="translate(84 543.5) scale(0.13)" xlink:href="images/wash%20hands.png"/>
+    <text class="cls-10" transform="translate(733.57 810.47)">WELLNESS
+      <tspan x="0" y="43.2">SELF-CHECK</tspan>
+    </text>
+    <text class="cls-10" transform="translate(130.17 936.77)">WASH HANDS
+      <tspan x="0" y="43.2">FREQUENTLY</tspan>
+    </text>
+    <text class="cls-10" transform="translate(696.84 1295.91)">WIPE DOWN
+      <tspan x="0" y="43.2" xml:space="preserve">
+        DESK AND
+      </tspan>
+      <tspan x="0" y="86.4">EQUIPMENT</tspan>
+    </text>
+    <text class="cls-10" transform="translate(91.05 1493.58)">WEAR A FACE MASK<tspan class="cls-11" x="380.44" y="0"></tspan>
+    </text>
+    <text class="cls-10" transform="translate(707.54 1827.35)">WORK SIX FEET
+      <tspan x="0" y="43.2" xml:space="preserve">
+        APART FROM
+      </tspan>
+      <tspan x="0" y="86.4" xml:space="preserve">
+        OTHERS</tspan>
+    </text>
+    <text class="cls-12" transform="translate(652.95 729.24)">1</text>
+    <text class="cls-13" transform="translate(50.96 686.04)">2</text>
+    <text class="cls-14" transform="translate(631.29 1191.46)">3</text>
+    <text class="cls-15" transform="translate(408.03 1399.33)">4</text>
+    <text class="cls-16" transform="translate(1034.89 1627.95)">5</text>
+  </g>
+</svg>

@@ -1,0 +1,43 @@
+svg{
+  /* height: 800px; */
+  margin: auto;
+  display: block;
+}
+
+image:hover{
+/* border: 2px green solid; */
+/* fill: green !important; */
+cursor: pointer;
+/* transform: scale(0.2); */
+}
+
+.w-1-page .cls-6,
+.w-1-page .cls-5,
+.w-1-page .cls-18,
+.w-1-page .cls-21,
+.w-1-page .cls-19,
+.w-1-page .cls-211{
+  display: none;
+}
+
+.w-3-page .cls-5,
+.w-3-page .cls-4,
+.w-3-page .cls-15,
+.w-3-page .cls-13{
+  display: none;
+}
+
+.w-4-page .cls-6,
+.w-4-page .cls-5,
+.w-4-page .cls-9,
+.w-4-page .cls-10,
+.w-4-page .cls-30,
+.w-4-page .cls-100{
+  display: none;
+}
+#not-touch{
+  opacity: 0;
+}
+#not-touch:hover{
+  opacity: 1;
+}
